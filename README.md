@@ -1,0 +1,2 @@
+# Captcha
+Bypass SpeedFox Captcha
