@@ -1,2 +1,1 @@
-# Captcha
-Bypass SpeedFox Captcha
+# Support 1 language
