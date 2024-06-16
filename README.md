@@ -1,3 +1,3 @@
 # Support 2 languages
-Python
-RobloxLua
+* Python
+* RobloxLua
