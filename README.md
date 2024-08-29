@@ -1,6 +1,6 @@
 # Contributor
 [@Ababa](https://github.com/AbabaHnb)
-# Other
+# Directory
 * [NapCat](https://napneko.github.io)
     > Fluxus Keyless
 * [SpeedFox](https://jihujiasuqi.com)
