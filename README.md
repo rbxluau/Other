@@ -1,3 +1,2 @@
-# Support 2 languages
-* [Python](https://python.org)
-* [Luau](https://luau.org)
+* [NapCat](https://napneko.github.io)
+* [SpeedFox](https://jihujiasuqi.com)
