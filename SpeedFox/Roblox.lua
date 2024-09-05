@@ -1,6 +1,6 @@
-HttpService = game:GetService("HttpService")
+local HttpService = game:GetService("HttpService")
 
-function GetJson(v)
+local function GetJson(v)
 	return HttpService:JSONDecode(HttpService:GetAsync(v))
 end
 
